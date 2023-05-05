@@ -8,6 +8,12 @@ Eu sou <strong>Geovana</strong>, <strong>Faça uma breve apresentação aqui</st
 
 <div align="center">
   
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovana-lima-8312a7274/)](https://www.linkedin.com/in/geovana-lima-8312a7274//)
+  <a href="mailto:geovana.willyna@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=geovana.willyna@gmail.com"/></a>
+
+  <a href="https://www.linkedin.com/in/geovana-lima-8312a7274/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovana-lima-8312a7274/" /></a>
+  
+ ![geovanaw's Stats](https://github-readme-stats.vercel.app/api?username=geovanaw&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
  
 </div>
