@@ -1,4 +1,4 @@
-# Geovana Lima. <img src="https://media.tenor.com/9Qdih5bJFrAAAAAC/ousama-ranking-bojji.gif" width="30px">
+# Geovana Lima. <img src="https://media.tenor.com/9Qdih5bJFrAAAAAC/ousama-ranking-bojji.gif" width="100px">
 
 Eu sou <strong>Geovana</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
