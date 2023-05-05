@@ -1,4 +1,5 @@
-# Geovana Lima <img src="https://media.tenor.com/E9uvclS3WnAAAAAC/bojji-kage.gif" width="100px">
+# Geovana Lima 
+<img src="https://media.tenor.com/E9uvclS3WnAAAAAC/bojji-kage.gif" width="100px">
 
 Eu sou <strong>Geovana</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
