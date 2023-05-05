@@ -7,15 +7,7 @@ Eu sou <strong>Geovana</strong>, <strong>Faça uma breve apresentação aqui</st
 - 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
 
 <div align="center">
-
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
-
   
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovana-lima-8312a7274/)](https://www.linkedin.com/in/geovana-lima-8312a7274//)
  
-
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-
 </div>
