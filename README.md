@@ -3,7 +3,7 @@
 Meu nome é <strong>Geovana</strong>, <strong>sou destudante de ciências biológicas com grande interesse na área de bioinformática. Faço um curso de desenvolvimento Full Stack pelo PSG SENAC.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Python | Javascript | Node.js | MongoDB | HTML | CSS </strong> 
-- 💬 Pergunte-me sobre: <strong>Jogos, séries, animes</strong>
+- 💬 Pergunte-me sobre: <strong>Jogos | Séries | Animes</strong>
 - 📣 Nós podemos falar em: <strong>Português | Inglês</strong>
 
 <div align="center">
