@@ -11,8 +11,8 @@ Meu nome é <strong>Geovana</strong>, <strong>sou destudante de ciências bioló
   <a href="mailto:geovana.willyna@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=geovana.willyna@gmail.com"/></a>
 
-  <a href="https://www.linkedin.com/in/geovana-lima-8312a7274/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovana-lima-8312a7274/" /></a>
+  <a href="https://www.linkedin.com/in/geovanawlima/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanawlima/" /></a>
   
  ![geovanaw's Stats](https://github-readme-stats.vercel.app/api?username=geovanaw&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
  
