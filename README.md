@@ -1,4 +1,4 @@
- # Geovana Lima  <img src="https://media.tenor.com/E9uvclS3WnAAAAAC/bojji-kage.gif" width="80px">
+ #  Olá! <img src="https://media.tenor.com/E9uvclS3WnAAAAAC/bojji-kage.gif" width="80px">
 
 Meu nome é <strong>Geovana</strong>, <strong>sou destudante de ciências biológicas com grande interesse na área de bioinformática. Faço um curso de desenvolvimento Full Stack pelo PSG SENAC.</strong> 👨🏻‍💻 
 
