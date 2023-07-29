@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pt.bloggif.com/tmp/8536cc5312af35bd83b4eb76a92ab8ae/text.gif?1690648250">
+<img src="https://pa1.aminoapps.com/6657/1bd05b78cdae9888d07fc2c91186796fc535d85b_00.gif">
 
 | quem eu sou: | quase bióloga que, por meio da bioinformática, ficou interessada na área de desenvolvimento |
 |--:|--|
@@ -13,7 +13,13 @@
 outras redes: |[linkedin](https://www.linkedin.com/in/geovanawlima/)  |
 
 ___
+ <img src="https://www.orkugifs.com/images/Obrigada-pela-visita!-Volte-sempre!_2571.gif">
+
+ <details><summary>stats</summary>
+<p>
+ 
  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=geovanaw&theme=react)](https://github.com/geovanaw/github-readme-stats)
-  
+ </p>
+ </details>
  
 </div>
